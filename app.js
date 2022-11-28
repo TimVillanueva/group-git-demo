@@ -13,3 +13,5 @@ const test = 'testing'
 let i =0;
 
 const new test = 11;
+
+let stash = 1029387; 
